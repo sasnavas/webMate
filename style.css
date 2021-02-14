@@ -60,8 +60,8 @@ header .container nav a
 	border-bottom: 10px solid transparent;
 }
 header .container nav a:hover{
-	border-bottom: 10px solid #DEADB1;
-	color: #DEADB1;
+	border-bottom: 10px solid #f3d4d7;
+	color: #f3d4d7;
 }
 
 header .container .hamb
@@ -72,7 +72,7 @@ header .container .hamb
 
 footer
 {
-	background-color: #DEADB1;
+	background-color: #f3d4d7;
 	color: white;
 	padding-top: 60px;
 }
@@ -149,7 +149,7 @@ footer .redes a
 	z-index:2;
   }
 .ir-arriba:hover{
-	color: #DEADB1;
+	color: #f3d4d7;
 }
 .boton
 {
@@ -163,7 +163,7 @@ footer .redes a
 .boton.boton-rosado
 {
 	background-color: gray;
-	color: #DEADB1;
+	color: #f3d4d7;
 	font-size: 20px;
 	font-weight: bold;
 }
@@ -358,7 +358,7 @@ footer .redes a
 	margin-top: 10%;
 }
 #servicios{
-	background-color: #DEADB1;
+	background-color: #f3d4d7;
 }
 
 #servicios .bloque-servicio .bloque-img-servicio img
@@ -443,7 +443,7 @@ footer .redes a
 	border-top: 0;
 	border-left: 0;
 	border-right: 0;
-	background-color: #DEADB1;
+	background-color: #f3d4d7;
 	outline: none;
 }
 #contactenos form textarea
@@ -451,7 +451,7 @@ footer .redes a
 	border-top: 0;
 	border-left: 0;
 	border-right: 0;
-	background-color: #DEADB1;
+	background-color: #f3d4d7;
 	outline: none;
 
 }
@@ -463,7 +463,7 @@ footer .redes a
 	border-bottom: 1px solid grey;
 	width: 100%;
 	padding: 5px 10px;
-	background-color: #DEADB1;
+	background-color: #f3d4d7;
 }
 
 #contactenos form .form-block textarea
@@ -482,7 +482,7 @@ footer .redes a
 }
 .contactame
 {
-	background-color: #DEADB1;
+	background-color: #f3d4d7;
 	margin: 0%;
 }
 .contactame h2
