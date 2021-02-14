@@ -352,10 +352,11 @@ footer .redes a
 {
 	font-family: "MadeMirage";
 	color:black;
-	text-align: left;
+	text-align: justify;
 	font-size: 15px;
 	/*margin: 0;*/
 	margin-top: 10%;
+	
 }
 #servicios{
 	background-color: #f3d4d7;
